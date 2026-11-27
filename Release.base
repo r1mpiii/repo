@@ -1,0 +1,8 @@
+Origin: iOS Freedom
+Label: iOS Freedom
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: iOS Freedom repo - tweaks by @r1mpii | Telegram @iosfreedom

@@ -1,0 +1,57 @@
+Package: com.backgesture.android
+Name: Back Gesture Android (RootHide)
+Description: Android-style back gesture for iOS
+Maintainer: iosfreedom
+Author: r1mpii
+Homepage: https://t.me/iosfreedom
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Icon: https://r1mpiii.github.io/repo/icons/backgesture.png
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Installed-Size: 184
+SileoDepiction: https://r1mpiii.github.io/repo/depictions/backgesture-roothide.json
+Filename: debs/BackGestureAndroid_2.0.0_RootHide.deb
+Size: 44986
+MD5sum: e5deca0a0b9d577bbe28941e13ff5898
+SHA1: 67d006d2ff4ec633dcbd01ccc9e3c1268b8b35b5
+SHA256: 8b687ac7d27b0cc325c56a50e3de1f75a4568e04699470fe2d3882ab76e46880
+
+Package: com.backgesture.android
+Name: Back Gesture Android (Rootful)
+Description: Android-style back gesture for iOS
+Maintainer: iosfreedom
+Author: r1mpii
+Homepage: https://t.me/iosfreedom
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Icon: https://r1mpiii.github.io/repo/icons/backgesture.png
+Architecture: iphoneos-arm
+Version: 2.0.0
+Installed-Size: 460
+SileoDepiction: https://r1mpiii.github.io/repo/depictions/backgesture-rootful.json
+Filename: debs/BackGestureAndroid_2.0.0_Rootful.deb
+Size: 52852
+MD5sum: a25e9c6b7729f0d3bd6ba00954f6717f
+SHA1: 6c7f3f24fe27daad9f16fd8f01d0e93448e2875d
+SHA256: fea1634b1d273da931acdf440fa12c4a663165b5d404e2be0e74935efffabb82
+
+Package: com.backgesture.android
+Name: Back Gesture Android (Rootless)
+Description: Android-style back gesture for iOS
+Maintainer: iosfreedom
+Author: r1mpii
+Homepage: https://t.me/iosfreedom
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Icon: https://r1mpiii.github.io/repo/icons/backgesture.png
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Installed-Size: 184
+SileoDepiction: https://r1mpiii.github.io/repo/depictions/backgesture-rootless.json
+Filename: debs/BackGestureAndroid_2.0.0_Rootless.deb
+Size: 44978
+MD5sum: 746c43fbed1fc0f4dc98fc6f8bdb0e27
+SHA1: c93489b8843d2461cefa78bd26d2c89bcd9a637e
+SHA256: 2029e5eb08de51a119a3952c01f977f163771ac53c93c4eced16e890be28d565
+
