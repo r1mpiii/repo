@@ -6,12 +6,12 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: iOS Freedom repo - tweaks by @r1mpii | Telegram @iosfreedom
-Date: Fri, 27 Nov 2026 13:12:44 UTC
+Date: Fri, 27 Nov 2026 20:06:23 UTC
 MD5Sum:
  3fa5b1ebc40eb7eec51709db42bcb21d 2148 Packages
- 6801be3b65873ab7e98bc78c09b3d780 734 Packages.gz
+ 01f85584516dfe90900c6c6fe3cf7e81 734 Packages.gz
  30842895d022e60b7f0703b442ff3651 891 Packages.bz2
 SHA256:
  40f553334db6ba2f41918af29f7462cc6b4777c8f04fd09e449064dfdfa1c788 2148 Packages
- d05e910a59fef002b8612ba6ea2945424171669f3341d9982b7a8d266146eb27 734 Packages.gz
+ 535115f0160f14956b3e9b2b92435317cbf5c35bffbe26470c6203039e03650a 734 Packages.gz
  eb4474025b3886bacb63c3e1c2b8fdb711ee0117cf76d1f7bb5dc5bf1c6da7a9 891 Packages.bz2
