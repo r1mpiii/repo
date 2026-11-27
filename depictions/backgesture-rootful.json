@@ -1,0 +1,123 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#0A84FF",
+  "tabs": [
+    {
+      "tabname": "English",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Description"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Back Gesture Android** brings the Android-style back gesture to iOS. A blob on the screen edge follows your finger: a short swipe cancels, a long swipe goes back, and on the root screen of an app it exits to the Home Screen.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Features"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- White theme and a theme with any colour you choose\n- Auto theme: the gesture is white on dark mode and black on light mode\n- Adjustable gesture size\n- Haptics can be turned off\n- Separate **Back Gesture Android - Apps** section to disable the tweak in specific apps\n- Choose the side: left, right or both",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tweak author",
+          "text": "@r1mpii"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Type",
+          "text": "Rootful"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 14 - 26.0.1"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram channel @iosfreedom",
+          "action": "https://t.me/iosfreedom",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Important:** @r1mpii is not the admin or creator of the Telegram channel @iosfreedom.",
+          "useSpacing": true
+        }
+      ]
+    },
+    {
+      "tabname": "Русский",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Описание"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Back Gesture Android** добавляет жест «Назад» как на Android в iOS. Капля на краю экрана следует за пальцем: короткий свайп отменяет, длинный возвращает назад, а на главном экране приложения выходит на домашний экран.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Возможности"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Белая тема и тема с выбором любого цвета\n- Авто-тема: на тёмной теме жест белый, на светлой — чёрный\n- Можно менять размер жеста\n- Можно отключить вибрацию\n- Отдельный раздел **Back Gesture Android - Приложения**, где твик можно отключить в конкретных приложениях\n- Можно выбрать сторону работы твика: слева, справа или с обеих сторон",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Автор твика",
+          "text": "@r1mpii"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Версия",
+          "text": "2.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Тип",
+          "text": "Rootful"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Совместимость",
+          "text": "iOS 14 - 26.0.1"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Телеграм канал @iosfreedom",
+          "action": "https://t.me/iosfreedom",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Важно:** @r1mpii не является админом/создателем телеграм канала @iosfreedom.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
