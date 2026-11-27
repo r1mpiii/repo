@@ -1,0 +1,27 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionStackView",
+  "views": [
+    {
+      "class": "DepictionButtonView",
+      "text": "Telegram: @iosfreedom",
+      "action": "https://t.me/iosfreedom",
+      "openExternal": true
+    },
+    {
+      "class": "FeaturedBannersView",
+      "itemSize": "{263, 148}",
+      "itemCornerRadius": 12,
+      "banners": [
+        {
+          "url": "sileo://package/com.backgesture.android",
+          "title": "Back Gesture Android",
+          "package": "com.backgesture.android",
+          "repoName": "iOS Freedom",
+          "image": "https://r1mpiii.github.io/repo/banners/backgesture.png",
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}
